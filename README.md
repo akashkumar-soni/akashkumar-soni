@@ -67,7 +67,7 @@
 ---
 
 ### Experience
-- Software Engineer 1 - 5+ years experienced MERN Full Stack Developer 
+- Senior Software Engineer-1 : 5+ years experienced MERN Full Stack Developer 
   Worked with Git/GitHub, ESLint, agile flows, SonarQube, Swagger; built OTP auth via SMS/email with rate limits and replay protection; contributed UI polish using Tailwind and Framer Motion; stack included React, Node, Express, JWT, MongoDB/MySQL.  
 
 ---
