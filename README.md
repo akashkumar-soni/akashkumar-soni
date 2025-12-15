@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Email-akashkumarsoni2022%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://linkedin.com/in/akashkumar9">
-    <img src="https://img.shields.io/badge/LinkedIn-akashkumar9?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Akash%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=akashkumar-soni&style=for-the-badge&color=blueviolet" />
 </p>
