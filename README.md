@@ -7,14 +7,14 @@
   <a href="mailto:kashkumarsoni2022@gmail.com">
     <img src="https://img.shields.io/badge/Email-akashkumarsoni2022%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/akashkumarsoni">
-    <img src="https://img.shields.io/badge/LinkedIn-akashkumar-soni?style=for-the-badge&logo=linkedin" />
+  <a href="https://linkedin.com/in/akashkumar9">
+    <img src="https://img.shields.io/badge/LinkedIn-akashkumar9?style=for-the-badge&logo=linkedin" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=akashkumar-soni&style=for-the-badge&color=blueviolet" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C0FF&center=true&vCenter=true&width=900&height=45&lines=Node.js+%2B+MongoDB+%2B+Prisma;React.js+19+%2B+TypeScript+%2B+Tailwind;OTP%2C+OAuth%2C+RBAC%2C+Payments;AWS+EC2%2FRDS%2FAmplify+%7C+Docker+%7C+Swagger" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C0FF&center=true&vCenter=true&width=900&height=45&lines=Node.js+%2B+MongoDB+%2B+;React.js+19+%2B+TypeScript+%2B+Tailwind;OTP%2C+OAuth%2C+RBAC%2C+Payments;AWS+EC2%2FRDS%2FAmplify+%7C+Docker+%7C+Swagger" />
 </p>
 
 ---
