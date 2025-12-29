@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C0FF&center=true&vCenter=true&width=900&height=45&lines=Magento+2+%7C%28+Adobe+Commerce+%29%7C+PHP;REST+%26+GraphQL+APIs+%7C+Payments+%7C+Shipments;React+%7C+Node.js+%7C+JWT+%7C+MongoDB;MySQL+%7C+Performance+%7C+Scalable+Systems;Git+%7C+CI%2FCD+%7C+Swagger+%7C+SonarQube" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C0FF&center=true&vCenter=true&width=900&height=45&lines=Magento+2+%28+Adobe+Commerce+%29%7C+PHP;REST+%26+GraphQL+APIs+%7C+Payments+%7C+Shipments;React+%7C+Node.js+%7C+JWT+%7C+MongoDB;MySQL+%7C+Performance+%7C+Scalable+Systems;Git+%7C+CI%2FCD+%7C+Swagger+%7C+SonarQube" />
 </p>
 
 ---
