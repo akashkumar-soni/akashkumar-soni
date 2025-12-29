@@ -61,6 +61,10 @@
 #### Services & Tools
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C86F8?logo=razorpay&logoColor=white)
 ![Shiprocket](https://img.shields.io/badge/Shiprocket-2E77BC?logo=shiprocket&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+![API Mesh](https://img.shields.io/badge/API%20Mesh-007ACC?logo=apollographql&logoColor=white)
+![App Builder](https://img.shields.io/badge/App%20Builder-6CC24A?logo=appveyor&logoColor=white)
+![Adobe Sensei](https://img.shields.io/badge/Adobe%20Sensei-FF0000?logo=adobe&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?logo=twilio&logoColor=white)
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-1B1F23?logo=gmail&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
