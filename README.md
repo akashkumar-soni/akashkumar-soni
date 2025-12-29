@@ -10,6 +10,9 @@
   <a href="https://linkedin.com/in/akashkumarsoni">
     <img src="https://img.shields.io/badge/LinkedIn-Akash%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
+  <a href="https://www.akash-kumar.site/">
+    <img src="https://img.shields.io/badge/Portfolio-akashkumar.site-1E90FF?style=for-the-badge&logo=google-chrome" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=akashkumar-soni&style=for-the-badge&color=blueviolet" />
 </p>
 
