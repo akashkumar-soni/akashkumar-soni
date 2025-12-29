@@ -67,8 +67,8 @@
 ---
 
 ### Experience
-- Senior Software Engineer-1 : 5+ years experienced MERN Full Stack Developer 
-  Worked with Git/GitHub, ESLint, agile flows, SonarQube, Swagger; built OTP auth via SMS/email with rate limits and replay protection; contributed UI polish using Tailwind and Framer Motion; stack included React, Node, Express, JWT, MongoDB/MySQL.  
+- Senior Software Engineer : 5+ years experienced PHP and Magento 2 (Adobe Commerce) 
+  Worked with custom module development, API integrations, and scalable eCommerce platforms, Git/GitHub, agile flows, SonarQube, Swagger; built OTP auth via SMS/email with rate limits and replay protection; contributed UI polish using Tailwind and Framer Motion; stack included React, Node, Express, JWT, MongoDB/MySQL.  
 
 ---
 
