@@ -23,7 +23,7 @@
 ---
 
 ### About
-- 8+ years experienced as a Magento (Adobe Commerce) Full-Stack Developer | Building scalable web apps end-to-end  
+- 5+ years experienced as a Magento (Adobe Commerce) Full-Stack Developer | Building scalable web apps end-to-end  
 - Backend-focused engineer with strong hands-on expertise in PHP, Magento 2 (Adobe Commerce), MySQL, and REST/GraphQL APIs. Experienced in custom module development, authentication & authorization, payment gateway integrations, schema/data modeling, and clean, well-documented APIs.
 - Frontend proficient in React, Redux, HTML5/CSS3 for responsive UIs. Tools: Git, Docker, AWS, Agile/Scrum.  
 - Interested in AI + Cloud; exploring RAG pipelines with embeddings, vector search, and caching.  
